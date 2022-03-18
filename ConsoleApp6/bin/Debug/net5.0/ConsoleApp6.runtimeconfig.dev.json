@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\alyam\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\alyam\\.nuget\\packages"
+    ]
+  }
+}
